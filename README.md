@@ -5,10 +5,12 @@ Sample code from 6-6-2012 meetup "Visualizing Advertising Data using Ruby on Rai
 
 Usage:
 
-  Install node.js and npm
+ * Install node.js and npm
 
-  % cd realtime
-  % npm install
-  % node server.js
+ * % cd realtime
 
-  Browse to http://localhost:2400/
+ * % npm install
+
+ * % node server.js
+
+ * Browse to http://localhost:2400/
