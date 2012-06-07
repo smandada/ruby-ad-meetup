@@ -1,0 +1,20 @@
+{
+    "author": "Mark Torrance <mark@rocketfuel.com>",
+    "name": "realtime",
+    "description": "Realtime example node modules",
+    "version": "0.0.0",
+    "private": true,
+    "engines": {
+        "node": "0.6.7"
+    },
+    "main": "node/main",
+    "dependencies": {
+        "mysql": "0.9.5",
+        "mysql-pool": "0.2.2",
+        "socket.io": "0.9.6",
+        "connect": "1.8.5",
+        "jquery": "1.6.3",
+        "socket.io-clusterhub": "0.1.1"
+    },
+    "devDependencies": {}
+}
